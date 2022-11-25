@@ -1,6 +1,8 @@
-# app
+# Overview
 
 A crisis management app.
+
+Note this app doesn't include the ios and android folder as they contain setup, the purpose of the repo is to share the flutter code.
 
 # Jawapp
 
