@@ -1,0 +1,97 @@
+name: app
+description: A crisis management app.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  curved_navigation_bar: ^0.3.4 #latest version
+  flutter_neumorphic:
+  google_fonts: ^1.1.0
+  firebase_core: ^0.5.2
+  cloud_firestore: ^0.14.3
+  firebase_auth: ^0.18.0+1
+  image_picker: ^0.6.7+11
+  firebase_storage: ^4.0.1
+  provider: ^4.3.2+1
+  flutter_auth_buttons: ^0.10.0
+  google_sign_in: ^4.5.6
+  google_maps_flutter: ^1.0.6
+  get_it: ^5.0.3
+  fluttertoast: ^7.1.5
+  flutter_localizations:
+    sdk: flutter
+  location: ^3.1.0
+  webview_flutter: ^1.0.7
+  url_launcher: ^5.7.10
+  flutter_launcher_icons: "^0.8.0"
+  http: ^0.12.2
+  liquid_swipe: ^1.5.0
+
+
+
+
+
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+ # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/lang/ar.json
+    - assets/lang/en.json
+    - assets/configs/map.json
+    - assets/images/
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: HelveticaNeue
+      fonts:
+        - asset: assets/fonts/HelveticaNeue-Heavy.ttf
+          weight: 900
+        - asset: assets/fonts/HelveticaNeue-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/HelveticaNeue-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/HelveticaNeue-Light.ttf
+          weight: 300
+        - asset: assets/fonts/HelveticaNeue-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/HelveticaNeue.ttf
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
