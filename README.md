@@ -36,7 +36,7 @@ There’s also the ability to search for rules and regulation on specific matter
 
 ### 1.2.2 Volunteer work
 
-### ![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.002.png)![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.003.png)![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.004.png)
+# ![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.002.png)![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.003.png)![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.004.png)
 
 The Screens above shows the Volunteer work pages, first one is where all the current available volunteer work is shown, by tapping on one of these postings u get a popup with all the details for this volunteer work and a contact button and a volunteer button to sign up for this certain volunteer work.
 
@@ -44,19 +44,23 @@ Back to the first screen, this also shows a tag system, which helps selecting th
 
 This can help enable people to fight back and to be able to help people affected by disasters, in an effective manner.
 
-### ![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.005.png)
+# ![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.005.png)
 
 The screen above is what a user sees after signing up for volunteer work.
 
 ###
 
-### 1.2.3 Resource Management![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.006.png)
+### 1.2.3 Resource Management
+
+![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.006.png)
 
 The screen above shows the resource management screen; which helps users find shops, pharmacys, bakers, .etc which sell these limited goods. This helps the government keep track of which resources are limited in quantity and authorize a limited number that a citizen can buy depending on their family book “دفتر العائلة“.
 
 ### 1.2.4 Procedures and Recommendation
 
-This screen on the left, shows informative Procedures, on how to handle certain situation throw a pandemic/disaster, or recommendations(i.e: apps to order groceries from), recommendations also include clearing misinformation which can occur through pandemic especially through social media (i.e: Facebook post).![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.007.png)
+This screen on the left, shows informative Procedures, on how to handle certain situation throw a pandemic/disaster, or recommendations(i.e: apps to order groceries from), recommendations also include clearing misinformation which can occur through pandemic especially through social media (i.e: Facebook post).
+
+![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.007.png)
 
 This part of the app is important to spread the correct information and raise awareness to people in jordan.
 
@@ -70,8 +74,12 @@ Tapping on the title of these 3 sections takes you to a separate page for these 
 
 Area Control is a flexible solution for the government to control areas, and users to get information or possibly perform a certain procedure (i.e: stay in lockdown if your area is under contamination).
 
-Circles can be color coded, for example yellow; residents of the area are under lockdown, red; contaminated area residents are under lockdown and outsiders aren’t allowed to enter without authorization, blue; help is needed ( can move you to the volunteer work post screen).![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.009.png)
+Circles can be color coded, for example yellow; residents of the area are under lockdown, red; contaminated area residents are under lockdown and outsiders aren’t allowed to enter without authorization, blue; help is needed ( can move you to the volunteer work post screen).
+
+![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.009.png)
 
 The screens in the page below shows what happens when you tap the circles (red, blue) accordingly.
 
-![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.010.png)![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.011.png)
+![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.010.png)
+
+![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.011.png)
