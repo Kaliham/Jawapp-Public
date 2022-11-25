@@ -28,7 +28,9 @@ Jawapp features are divided into three important categories:
 
 To access the interactive design please go [here.](https://xd.adobe.com/view/4297ba95-004e-476d-bfd6-abdb12bbcca4-17c4/screen/97682ced-9ee1-479e-b799-ddc37e6228e9?fullscreen&hints=off)
 
-### 1.2.1 Home page: Rules & Regulations![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.001.png)
+### 1.2.1 Home page: Rules & Regulations
+
+![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.001.png)
 
 This Screen is where the rules & regulation can be viewed by users. Users can see the current active rules & regulations, which are color coded ( green : important, red : must follow). Users can also view previous or a history of previous rules that were applied, or view the Scheduled rules and regulations.
 
@@ -36,7 +38,7 @@ There’s also the ability to search for rules and regulation on specific matter
 
 ### 1.2.2 Volunteer work
 
-# ![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.002.png)![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.003.png)![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.004.png)
+![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.002.png) ![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.003.png) ![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.004.png)
 
 The Screens above shows the Volunteer work pages, first one is where all the current available volunteer work is shown, by tapping on one of these postings u get a popup with all the details for this volunteer work and a contact button and a volunteer button to sign up for this certain volunteer work.
 
@@ -47,8 +49,6 @@ This can help enable people to fight back and to be able to help people affected
 # ![](docs/img/Aspose.Words.8a3ddf5a-f454-46f1-8a43-fb45ee8b6e19.005.png)
 
 The screen above is what a user sees after signing up for volunteer work.
-
-###
 
 ### 1.2.3 Resource Management
 
